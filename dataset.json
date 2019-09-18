@@ -1,0 +1,4 @@
+{
+"local-hostname": "${hostname}"
+"instance-id": "iid-${hostname}"
+}
